@@ -4,13 +4,13 @@ require_relative "../lib/advanced_jukebox"
 
 
 my_songs = {
-"Go Go GO" => 'brewchetta/jukebox-cli-nyc-web-100818/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/03.mp3',
-"Guiding Light" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/04.mp3',
-"Wolf" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/05.mp3',
-"Blue" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/07.mp3'
+"Go Go GO" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/04.mp3',
+"Wolf" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/05.mp3',
+"Blue" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '~/Documents/Learn/jukebox/jukebox-cli-nyc-web-100818/audio/Emerald-Park/07.mp3'
 }
 
 run(my_songs)
