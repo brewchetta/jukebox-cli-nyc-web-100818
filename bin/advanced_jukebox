@@ -4,7 +4,7 @@ require_relative "../lib/advanced_jukebox"
 
 
 my_songs = {
-"Go Go GO" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/01.mp3',
+"Go Go GO" => 'brewchetta/jukebox-cli-nyc-web-100818/audio/Emerald-Park/01.mp3',
 "LiberTeens" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/02.mp3',
 "Hamburg" =>  '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/03.mp3',
 "Guiding Light" => '../jukebox-cli-nyc-web-100818/audio/Emerald-Park/04.mp3',
